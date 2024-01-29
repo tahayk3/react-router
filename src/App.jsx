@@ -1,6 +1,11 @@
 import React from "react";
 function App(){
     return(
-        <h1>asd</h1>
+        <>
+         <h1>ENRUTADOR</h1>
+         <hr />
+        </>
     );
 }
+
+export default App;
